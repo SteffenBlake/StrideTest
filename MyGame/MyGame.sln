@@ -1,0 +1,13 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGame.Windows", "MyGame.Windows\MyGame.Windows.csproj", "{FBA2C519-CF27-4633-A391-0E3DE5E90AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGame", "MyGame\MyGame.csproj", "{BB74BE5F-36C0-45E7-BA15-F35EE5C6079E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGame.Android", "MyGame.Android\MyGame.Android.csproj", "{85EDC130-AC88-4266-B6C0-779CC6D922E7}"
+EndProject
+Global
+EndGlobal
